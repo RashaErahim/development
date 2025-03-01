@@ -39,6 +39,11 @@ student_grade=[ 100,48,89, 'hello',True]
 f = 89 # f is frehanhit value
 c= (f-32)* 5/9 
 print(c)
+a=6 #the first side of trinagle 
+b=7 #the second side of trinagle 
+c= 4 # the third side of tringle 
+Prmiter_of_trinagle= a+b+c
+print(Prmiter_of_trinagle)
 
 
 
