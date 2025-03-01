@@ -29,6 +29,17 @@ print(45-9)
 
 
 # Program to find the perimeter of a rectangle
+length=10
+wedith=7
+permiter_of_rec= 2* (length+wedith)
+print(permiter_of_rec)
+student_grade=[ 100,48,89, 'hello',True]
+
+
+f = 89 # f is frehanhit value
+c= (f-32)* 5/9 
+print(c)
+
 
 
 
