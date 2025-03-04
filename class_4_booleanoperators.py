@@ -16,7 +16,8 @@ print(seven_less_than_five)
 
 
 # Is 5 equal to 5? ==
-
+five_equal_to_five=5==5
+print(five_equal_to_five)
 
 # AND KEYWORD - Only delivers true if both values are True
 
