@@ -68,10 +68,14 @@ num = 5
 
 
 # fahrenheit = 89
+f=89
 
 
 # celsius = (fahrenheit - 32) * 5/9
-
+color_one='red'
+color_two='black'
+new_color =color_one +'_'+color_two
+print (new_color)
 
 
 
